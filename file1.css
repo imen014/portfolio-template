@@ -1,0 +1,111 @@
+.nav{
+ /*  background-color: rgb(18, 18, 19);*/
+ background: linear-gradient(to right, rgb(65, 65, 70), #000);
+    width: 100%;
+    height: 50px;
+    position: block;
+    align-items: center;
+}
+.nav-btn1{
+    color: white;
+    background-color: rgb(18, 18, 19);
+    width: 150px;
+    height: 50px;
+
+}
+.spacer{
+    width: 200px;
+    height: 100px;
+}
+.icon{
+    width:30px;
+    height: 30px;
+    position: relative;
+    left:100px;
+}
+.a-icon{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: rgb(18, 18, 19);
+
+}
+.body{
+    background-color: #000;
+    width: 100%;
+    height: 400px;
+}
+.div1{
+    width: 50%;
+    height: 400px;
+}
+.p1{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    top: 100px;
+    font-size: 50px;
+    text-align: start;
+    margin-left: 50px;
+}
+.bs{
+    position: block;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+}
+.p2{
+    color: gray;
+    padding: 5px;
+    margin: 5px;
+    position: relative;
+    top: 100px;
+    font-size: 15px;
+    text-align: start;
+    margin-left: 50px;
+}
+.start-btn{
+    background-color: yellowgreen;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    top: 100px;
+    right:100px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 0.5em;
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: blue;
+    background-image: url("images/homme.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    padding: 20px;
+
+}
+.spacer2{
+    height: 100px;
+    width: 10%;
+}
+.nav2{
+    height: 100px;
+    width: 100%;
+    display: block;
+    align-items: center;
+    background-color: #000;
+    place-items: center;
+    
+    
+}
+.space-between{
+    width: 50px;
+    height: 50px;
+}
+
